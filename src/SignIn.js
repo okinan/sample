@@ -45,7 +45,7 @@ export default function SignIn() {
           <h3>HelloHello</h3>
           <h4>HelloHello</h4>
           <Typography variant="h4" sx={{ mt: 1, backgroundColor: "red" }}>
-            ログイン画面
+            ログイン画面a
           </Typography>
 
           <Box
